@@ -41,12 +41,9 @@
 - `git diff 分支 分支`
   - 比较两个分支最新提交版本的差异
 
-### git merage branch_name
+### git merage [branch-name]
 
-- 分支合并
-
-- 合并之前需要切换到master分支
-- 快速合并和冲突合并
+- 合并指定分支到当前分支 
 
 ## 储存变更
 
