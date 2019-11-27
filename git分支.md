@@ -44,6 +44,7 @@
 ### git merage [branch-name]
 
 - 合并指定分支到当前分支 
+- `git merge --abort` 撤销当前合并状态
 
 ## 储存变更
 
