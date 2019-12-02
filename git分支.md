@@ -24,6 +24,10 @@
   - 推送本地分支到远程，远程分支和本地分支同名
   - `git push origin 本地分支名:远程分支名`
 
+## git新建分支和远程进行关联
+
+- `git branch --set-upstream-to=origin/remote_branch local_branch`
+
 ## git 分支的合并
 
 ### 分支的指针
