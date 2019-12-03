@@ -30,6 +30,15 @@
 	- 从远程仓库拉取代码，但是不会自动和本地代码合并
 	- 和git pull的区别在于，git pull会自动合并本地与拉取下来的代码
 
+## 查看远程仓库
+
+- `git remote`
+
+## 删除远程仓库
+
+- `git remote rm local_remote_name`
+    - 移除本地的远程仓库引用
+
 ## github上的仓库
 
 - 创建github账号
