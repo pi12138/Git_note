@@ -18,3 +18,11 @@
 - --hard
 - --mixed
 - --soft
+
+## 撤销已提交的文件
+
+- git rm --cache filename
+    - 撤销后本地磁盘依旧保留
+
+- git rm filename
+    - 撤销后本地磁盘也删除

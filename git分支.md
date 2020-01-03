@@ -17,6 +17,8 @@
   - 删除分支
   - `git push origin  --delete 远程分支名`，删除远程分支
   - `git push origin  -d 远程分支名`
+- `git branch local_new_branch remote_name/branch`
+  - 基于远程仓库新建一个本地分支
 
 ## git新建分支然后推送到远程
 
